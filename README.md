@@ -1,4 +1,4 @@
-## Olá, me chamo Edson Andrade, aspirante a DEV!
+<div align="center"> ## Olá, me chamo Edson Andrade, aspirante a DEV! </div>
 
 <div align="center">
   <a href="https://github.com/EdsonAndrad3">
