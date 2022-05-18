@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, me chamo Edson Andrade, aspirante a DEV! </h1>
+<h2 align="center"> Olá, me chamo Edson Andrade, aspirante a DEV! </h2>
 
 <div align="center">
   <a href="https://github.com/EdsonAndrad3">
