@@ -24,3 +24,5 @@
   ![Snake animation](https://github.com/EdsonAndrad3/EdsonAndrad3/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  <!-- CRÉDITOS: https://github.com/rafaballerini
